@@ -7,8 +7,10 @@
 .. image:: https://zenodo.org/badge/182183266.svg
    :target: https://zenodo.org/badge/latestdoi/182183266
 
-NivTurk
+NivTurk-Shiyi-modified
 =======
+This is the modified verision of nivturk. 
+You use the .yml file to set up your virtual environment (cloned from my desktop).
 
 Niv lab tools for securely serving and storing data from online computational psychiatry experiments.
 
